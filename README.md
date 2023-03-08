@@ -6,8 +6,16 @@
 
 <p align="center">
 For this project, I obtained, debugged, and processed a dataset to create a customized dashboard in Google Data Studio.
+</p>
 <br>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/melirossi/fashion-sales-report/blob/master/Dashboard%20a.JPG" alt="dashboard" width="300"></td>
+    <td><img src="https://github.com/melirossi/fashion-sales-report/blob/master/Dashboard%20b.JPG" alt="dashboard" width="300"></td>
+  </tr>
+</table>
 <br>
+<p align="center">
 <a href="https://lookerstudio.google.com/s/k3xADpLk_nM" target="blank"><img align="center" src="https://img.shields.io/badge/Link_to_dashboard-FC7800?style=for-the-badge" alt="LinkProyecto"/></a>
 </p>
 
