@@ -41,7 +41,7 @@ For this project, I obtained, debugged, and processed a dataset to create a cust
 
 ✔️ Top 5 countries with their customers and total amounts
 
-### Features
+### Features:
 
 ✔️ The customer's requests were addressed through dynamic data visualizations that allow for selection, filtering, and detailed information display on hover.
 
@@ -55,11 +55,11 @@ For this project, I obtained, debugged, and processed a dataset to create a cust
 
 ✔️ Dynamic tables with filters were used to provide more detailed information.
 
-### Resources used
+### Resources used:
 
 Google Sheets | Google Data Studio
 
-### I'd love to hear from you
+### I'd love to hear from you!
 
 If you have any question, comments, or suggestions, do not hesitate to contact me (melisa.s.rossi@gmail.com). 
 
@@ -67,7 +67,8 @@ If you have any question, comments, or suggestions, do not hesitate to contact m
 <a href="mailto:melisa.s.rossi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=AAE2FC&color=9C9C9C" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/melisasrossi/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=AAE2FC&color=9C9C9C" alt="Linkedin"/></a>
 </p>
-
+<br>
+<br>
 <p align="right">
 <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-AAE2FC?style=for-the-badge&logo=appveyor.svg"></a>
 </p>
