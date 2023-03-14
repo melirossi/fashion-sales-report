@@ -65,7 +65,8 @@ For this project, I obtained, debugged, and processed a dataset to create a cust
 
 ### Resources used:
 
-Google Sheets | Google Data Studio
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-217346?style=for-the-badge&logo=google&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/google_data_studio-1a73e8?style=for-the-badge&logo=google&logoColor=white)
 
 ### I'd love to hear from you!
 
